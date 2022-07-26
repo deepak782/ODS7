@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ODS7</string>
+
+    <string name="placeholder_api">"https://jsonplaceholder.typicode.com/posts"</string>
+</resources>
