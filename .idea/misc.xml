@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/ODS7/app/src/main/res/drawable/box_bg.xml" value="0.1395" />
+        <entry key="..\:/ODS7/app/src/main/res/layout/activity_login_api.xml" value="0.22" />
         <entry key="..\:/ODS7/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/ODS7/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/ODS7/app/src/main/res/layout/activity_signup_api.xml" value="0.25" />
         <entry key="..\:/ODS7/app/src/main/res/layout/activity_weather_api_with_latand_lng.xml" value="0.20416666666666666" />
         <entry key="..\:/ODS7/app/src/main/res/layout/cusomt_json.xml" value="0.25" />
       </map>

@@ -12,13 +12,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ODS7">
         <activity
+            android:name=".SignupApiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WeatherApiWithLatandLngActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity2"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".WeatherApiWithLatandLngActivity"
+            android:name=".LoginApiActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
